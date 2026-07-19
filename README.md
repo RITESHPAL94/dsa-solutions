@@ -7,6 +7,7 @@ DSA practice - LeetCode solutions in Python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -17,4 +18,8 @@ DSA practice - LeetCode solutions in Python
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
