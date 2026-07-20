@@ -22,4 +22,8 @@ DSA practice - LeetCode solutions in Python
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
