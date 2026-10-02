@@ -14,10 +14,12 @@ DSA practice - LeetCode solutions in Python
 | ------- |
 | [0001-two-sum](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +28,8 @@ DSA practice - LeetCode solutions in Python
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
