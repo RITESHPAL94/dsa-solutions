@@ -35,6 +35,7 @@ DSA practice - LeetCode solutions in Python
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ DSA practice - LeetCode solutions in Python
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
