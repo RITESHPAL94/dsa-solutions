@@ -7,6 +7,7 @@ DSA practice - LeetCode solutions in Python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0036-valid-sudoku) |
@@ -37,6 +38,7 @@ DSA practice - LeetCode solutions in Python
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0125-valid-palindrome) |
@@ -87,4 +89,8 @@ DSA practice - LeetCode solutions in Python
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RITESHPAL94/dsa-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
